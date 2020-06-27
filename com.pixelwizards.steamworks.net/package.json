@@ -1,10 +1,10 @@
 {
   "name": "com.pixelwizards.steamworks.net",
-  "displayName": "Steamworks.NET - Riley Labrecque's Steamworks wrapper restructured for Unity's Package Manager",
-  "version": "0.1.0-preview.1",
+  "displayName": "Steamworks.NET",
+  "version": "14.1-preview.1",
   "unity": "2018.4",
-  "description": null,
-  "category": null,
+  "description": "- Riley Labrecque's Steamworks wrapper restructured for Unity's Package Manager. No modifications otherwise.",
+  "category": "Steamworks", "OpenUPM",
   "author": {
     "name": "Pixel Wizards",
     "email": "support@pixelwizards.ca",
