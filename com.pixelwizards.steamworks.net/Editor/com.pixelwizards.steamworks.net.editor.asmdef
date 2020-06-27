@@ -1,0 +1,17 @@
+{
+    "name": "com.pixelwizards.steamworks.net.editor",
+    "references": [
+        "GUID:0f4123669fa88534983c0478fa303ed2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

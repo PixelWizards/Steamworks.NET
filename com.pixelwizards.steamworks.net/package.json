@@ -1,0 +1,15 @@
+{
+  "name": "com.pixelwizards.steamworks.net",
+  "displayName": "Steamworks.NET - Riley Labrecque's Steamworks wrapper restructured for Unity's Package Manager",
+  "version": "0.1.0-preview.1",
+  "unity": "2018.4",
+  "description": null,
+  "category": null,
+  "author": {
+    "name": "Pixel Wizards",
+    "email": "support@pixelwizards.ca",
+    "url": "www.pixelwizards.ca"
+  },
+  "keywords": [],
+  "dependencies": {}
+}
