@@ -1,6 +1,8 @@
 Steamworks.NET
 =======
 
+[![openupm](https://img.shields.io/npm/v/com.pixelwizards.steamworks.net?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.pixelwizards.steamworks.net/)
+
 _Steamworks.NET_ is a C# Wrapper for Valve's Steamworks API, it can be used either with Unity or your C# based Application.
 
 _Steamworks.NET_ was designed to be as close as possible to the original C++ API, as such the documentation provided from Valve largely covers usage of _Steamworks.NET_.
